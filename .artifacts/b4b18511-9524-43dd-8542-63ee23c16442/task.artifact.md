@@ -1,0 +1,6 @@
+- [x] Basic Views Setup
+- [x] Aesthetic Overhaul
+- [x] Comprehensive Registration Form:
+    - [x] Update `activity_main.xml` with registration fields (Email, Password, Date)
+    - [x] Update `MainActivity.kt` with DatePicker and Validation logic
+    - [x] Verify build and registration flow
