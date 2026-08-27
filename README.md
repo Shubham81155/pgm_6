@@ -39,3 +39,5 @@ The app is organized into logical cards:
 ---
 *Created as part of Experiment No. 6 for Mobile Application Development.*
 ## Screenshots
+![Screenshot 2026-08-27 184011.png](SCREENSHOTS/Screenshot%202026-08-27%20184011.png)
+![Screenshot 2026-08-27 184535.png](SCREENSHOTS/Screenshot%202026-08-27%20184535.png)
